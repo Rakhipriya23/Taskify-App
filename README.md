@@ -18,3 +18,7 @@
 
 
 
+<h1>Taskify - Responsive Todo App</h1>
+<h2>Overview</h2>
+Welcome to Taskify, a responsive todo application designed to help you manage your tasks efficiently. This application is built with React for a seamless web design experience and MongoDB for robust data storage.
+
